@@ -1126,7 +1126,7 @@ margin-top: 50px;
   }
   .board {
     display: grid;
-    grid-template-columns: repeat(1, 250px);
+    grid-template-columns: repeat(1, 300px);
     grid-template-rows: repeat(16, 500px);
     width: 100%;
     height: 100%;
